@@ -18,6 +18,7 @@ With KinitoPET's top of the line R.R.A technology, KinitoPET is able to give ran
 ![Kinito from https://kinitopet.com](/readmeimgs/kinitoread.png)
 
 > "I can manage your system!"
+
  _KinitoPET should never be given administrative permissions or system access._
 
 ## "I hope we will meet together soon!"
