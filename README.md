@@ -8,5 +8,10 @@ Meet KinitoPET! Your new virtual best friend!
 
 ![Kinito from the Software](/readmeimgs/kinitohello.png)
 
-> "We are going to have so much fun together! - _Kinito_
+> "We are going to have so much fun together!" - _Kinito_
 
+> "I learn from you!"
+
+With KinitoPET's top of the line R.R.A technology, KinitoPET is able to give randomised conversations based on ***REAL WORLD EXAMPLES!***
+
+![Kinito from https://kinitopet.com](/readmeimgs/kinitowebpose.png)
