@@ -12,8 +12,10 @@ Meet KinitoPET! Your new virtual best friend!
 
 
 With KinitoPET's top of the line R.R.A technology, KinitoPET is able to give randomised conversations based on ***REAL WORLD EXAMPLES!***
-
 > "I adapt to you!"
+
+> [!NOTE]
+> This software **CANNOT** adapt to you, no matter what Kinito says in future updates.
 
 ![Kinito from https://kinitopet.com](/readmeimgs/kinitoread.png)
 
@@ -24,3 +26,7 @@ With KinitoPET's top of the line R.R.A technology, KinitoPET is able to give ran
 ## "I hope we will meet together soon!"
 
 ![Kinito from https://kinitopet.com](/readmeimgs/kinitowebpose.png)
+
+So why wait!
+
+[<img src="/readmeimgs/downloadbutton2.png">](https://github.com/HecurH/Kinito/releases)
