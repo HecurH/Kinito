@@ -4,4 +4,9 @@
 
 
 Meet KinitoPET! Your new virtual best friend!
+
+![Kinito from https://kinitopet.com](/readmeimgs/kinitowebpose.png)
+
 > "We are going to have so much fun together!
+> 
+> Please note that certain images do **NOT** resemble what is in this software.
