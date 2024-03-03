@@ -8,5 +8,5 @@ Meet KinitoPET! Your new virtual best friend!
 
 ![Kinito from the Software](/readmeimgs/kinitohello.png)
 
-> "We are going to have so much fun together!
+> "We are going to have so much fun together! - Kinito
 
