@@ -27,4 +27,5 @@ _PLease note: This software **CANNOT** actually adapt to you._
 ![Kinito from https://kinitopet.com](/readmeimgs/kinitowebpose.png)
 
 So why wait!
+
 ![Download Button from https://kinitopet.com](/readmeimgs/downloadnow.png)
