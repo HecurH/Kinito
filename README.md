@@ -25,3 +25,6 @@ _PLease note: This software **CANNOT** actually adapt to you._
 ## "I hope we will meet together soon!"
 
 ![Kinito from https://kinitopet.com](/readmeimgs/kinitowebpose.png)
+
+So why wait!
+![Download Button from https://kinitopet.com](/readmeimgs/downloadnow.png)
