@@ -28,4 +28,4 @@ _PLease note: This software **CANNOT** actually adapt to you._
 
 So why wait!
 
-![Download Button from https://kinitopet.com](/readmeimgs/downloadnow.jpg)
+![Download Button from https://kinitopet.com](/readmeimgs/downloadnow.png)
