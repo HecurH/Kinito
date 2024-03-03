@@ -29,4 +29,4 @@ With KinitoPET's top of the line R.R.A technology, KinitoPET is able to give ran
 
 So why wait!
 
-[<img src="/readmeimgs/buttontest1.png">](https://github.com/HecurH/Kinito/releases)
+[<img src="/readmeimgs/buttontest2.png">](https://github.com/HecurH/Kinito/releases)
