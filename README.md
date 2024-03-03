@@ -1,5 +1,5 @@
 # KinitoPET for your desktop
-##Please note that certain images do **NOT** resemble what is in this software.
+## Please note that certain images do **NOT** resemble what is in this software.
 ### _(this software is not at all affiliated with troy_en and all credits go to troy_en)_
 ### _[get KinitoPET on Steam and support troy_en!](https://store.steampowered.com/app/2075070/KinitoPET/)_
 
