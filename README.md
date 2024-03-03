@@ -12,7 +12,8 @@ Meet KinitoPET! Your new virtual best friend!
 
 
 With KinitoPET's top of the line R.R.A technology, KinitoPET is able to give randomised conversations based on ***REAL WORLD EXAMPLES!***
-_PLease note: This software **CANNOT** actually adapt to you._
+> [!NOTE]
+> This software **CANNOT** adapt to you, no matter what Kinito says in future updates.
 
 > "I adapt to you!"
 
