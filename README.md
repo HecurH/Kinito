@@ -5,7 +5,7 @@
 
 Meet KinitoPET! Your new virtual best friend!
 
-![Kinito from https://kinitopet.com](/readmeimgs/kinitowebpose.png)
+![Kinito from the Software](/readmeimgs/kinitohello.png)
 
 > "We are going to have so much fun together!
 > 
