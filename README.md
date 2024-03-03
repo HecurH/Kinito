@@ -12,6 +12,6 @@ Meet KinitoPET! Your new virtual best friend!
 
 
 With KinitoPET's top of the line R.R.A technology, KinitoPET is able to give randomised conversations based on ***REAL WORLD EXAMPLES!***
-> "I learn from you!"
+> "I adapt to you!"
 
 ![Kinito from https://kinitopet.com](/readmeimgs/kinitowebpose.png)
